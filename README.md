@@ -1,2 +1,2 @@
 # Amazon-Web-Scraper
-Finds when an item goes on sale on Amazon!
+Full description and instructions provided within the scraper file.
